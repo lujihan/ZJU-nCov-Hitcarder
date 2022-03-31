@@ -14,7 +14,7 @@ jobs:
         include:
           - username: ZJU_USERNAME
             password: ZJU_PASSWORD
-            dingtalk_token: 'c1be8b6ae5ec070a85d1961740ee38bc9eed2592ad8afb3c4b38820d71aff775'
+            dingtalk_token: DINGTALK_TOKEN
             pushplus_token: PUSHPLUS_TOKEN
             serverchan_key: SERVERCHAN_KEY
     steps:
